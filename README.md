@@ -1,4 +1,4 @@
-# Bem vindo ao meu perfil - Sou o Luca Bobbio
+# Hi! I'm Luca Bobbio
 
 <div>
   <a href="https://github.com/LucaBobbioDev">
