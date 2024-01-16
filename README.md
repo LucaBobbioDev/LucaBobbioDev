@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/LucaBobbioDev">
-    <img height ="160em" src="https://github-readme-stats.vercel.app/api?username=LucaBobbioDev&theme=shades-of-purple&show_icons&count_private=true"/>
-    <img height ="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaBobbioDev&layout=compact&theme=shades-of-purple&count_private=false"/>
+    <img height ="160em" src="https://github-readme-stats.vercel.app/api?username=LucaBobbioDev&theme=dracula&show_icons=true&rank_icon=github&count_private=true&include_all_commits=true"/>
+    <img height ="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaBobbioDev&layout=donut-vertical&theme=dracula&count_private=true"/>
 <div>
   
  # Technologies I've been studying
