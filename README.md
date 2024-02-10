@@ -13,14 +13,25 @@
 <h2>Stack</h2>
 <div>
   <h3>Languages</h3> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="text-decoration: none;" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img alt="HTML" src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5"/>
   </a>
-  <img alt="CSS" src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6"/>
-  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript"/> </br>
-  <img alt="Apex" src="https://img.shields.io/badge/-Apex-333333?style=flat&logo=Salesforce"/> </br>
-  <img alt="C Sharp" src="https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp&logoColor=65B741"/> </br>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img alt="CSS" src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript"/>
+  </a></br>
+  <a href="https://help.salesforce.com/s/articleView?id=sf.code_about.htm&type=5"> 
+    <img alt="Apex" src="https://img.shields.io/badge/-Apex-333333?style=flat&logo=Salesforce"/> </br>
+  </a></br>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+    <img alt="C Sharp" src="https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp&logoColor=65B741"/> 
+  </a></br>
+  <a href="https://www.python.org/">
+    <img alt="Python" src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python"/>
+  </a>
+  
 </div>
 
 <div>
