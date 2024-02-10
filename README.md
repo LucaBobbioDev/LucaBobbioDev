@@ -1,4 +1,4 @@
-<h1>Hi! I'm Luca Bobbio.</h1>
+<h1>Hi! I'm Luca Bobbio</h1>
 <p>
   I'm a professional holding a degree in Systems Analysis and Development from Fatec Santana de Parnaíba. I have 1 year of experience as a junior developer in the Salesforce area, working with technologies such as Apex, Lightning Web Components (JavaScript, HTML and CSS), Visualforce, SOSL/SOQL and others.
 </p>
