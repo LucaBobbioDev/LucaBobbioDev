@@ -3,7 +3,7 @@
   I'm a professional holding a degree in Systems Analysis and Development from Fatec Santana de Parnaíba. I have 1 year of experience as a junior developer in the Salesforce area, working with technologies such as Apex, Lightning Web Components (JavaScript, HTML and CSS), Visualforce, SOSL/SOQL and others.
 </p>
 
-<h2>Activies on Github</h2>
+<h2>Activities on Github</h2>
 <div>
   <a href="https://github.com/LucaBobbioDev">
     <img height ="160em" src="https://github-readme-stats.vercel.app/api?username=LucaBobbioDev&theme=dracula&show_icons=true&rank_icon=github&count_private=true"/>
