@@ -23,7 +23,7 @@
     <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript"/>
   </a></br>
   <a href="https://help.salesforce.com/s/articleView?id=sf.code_about.htm&type=5"> 
-    <img alt="Apex" src="https://img.shields.io/badge/-Apex-333333?style=flat&logo=Salesforce"/> </br>
+    <img alt="Apex" src="https://img.shields.io/badge/-Apex-333333?style=flat&logo=Salesforce"/>
   </a></br>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
     <img alt="C Sharp" src="https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp&logoColor=65B741"/> 
@@ -36,24 +36,31 @@
 
 <div>
   <h3>Databases</h3>
+  <a></a>
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql"/> </br>
+  <a></a>
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase"/>
 </div>
 
 <div>
   <h3>API Platform</h3>
+  <a></a>
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-333333?style=flat&logo=Postman"/>
 </div>
 
 <div>
   <h3>Version Control</h3>
+  <a></a>
   <img alt="Git" src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git"/>
+  <a></a>
   <img alt="Github" src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github"/>
-  <img alt="Bitbucket" src="https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket&logoColor=1572B6"/> </br>
+  <a></a>
+  <img alt="Bitbucket" src="https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket&logoColor=1572B6"/>
 </div>
 
 <div>
   <h3>Tool</h3>
+  <a></a>
   <img alt="VS Code" src="https://img.shields.io/badge/Vscode-333333?style=flat&logo=visual-studio-code&logoColor=0B60B0"/>
 </div>
 
