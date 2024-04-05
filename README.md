@@ -72,6 +72,36 @@
   </a>
 </div>
 
+<h2>Salesforce Skills</h2>
+<div>
+  <table width="100%" style="border:0px;">
+  <tr style="border:0px;" >
+    <td align="center" style="border:0px;">
+        <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/superbadges/superbadge_apex/2d3426c48dc056fd5c083ecb5cb66a56_badge.png" alt="Apex" style="width: 100px;"/><br><b>Apex</b>
+    </td>
+    <td align="center" style="border:0px;">
+      <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/superbadges/superbadge_lwc_specialist/0b422a78e019b08aa699dc76b48cc7e8_badge.png" alt="LWC" style="width: 100px;"/><br><b>LWC</b>
+    </td>
+    <td align="center" style="border:0px;">
+      <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/lex_dev_visualforce/7998e9bbdff36b923bb01ff7a5f918f5_badge.png" alt="Visualforce" style="width: 100px;"/><br><b>Visualforce</b>
+    </td>
+    <td align="center" style="border:0px;">
+      <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/projects/quickstart-vscode-salesforce/a884f9ae6802649bf19065787ec0bb29_badge.png" alt="SFDX" style="width: 100px;"/><br><b>SFDX</b>
+    </td>
+    <td align="center" style="border:0px;">
+      <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/projects/transform-sql-queries-to-soql-queries-in-a-lightning-app/5adf9047beeb18a068e6a2f1da1b6c4b_badge.png" alt="SOQL" style="width: 100px;"/><br><b>SOQL</b></td>
+    <td align="center" style="border:0px;">
+      <img src="https://developer.salesforce.com/resource/images/trailhead/badges/modules/trailhead_module_performance-troubleshooting-in-lwc.png" alt="Testing" style="width: 100px;"/><br><b>Testing</b>
+    </td>
+    <td align="center" style="border:0px;">
+      <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/apex_integration_services/06d0e8f1f5b59f14d070f0f6e86dc5bd_badge.png" alt="Apex Integration" style="width: 100px;"/><br><b>Integration</b>
+    </td>
+<td align="center" style="border:0px;">
+      <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/flow-concepts-quick-look/2efe8d1e594c2d1c67f0eefb752a5f49_badge.png" alt="Flow" style="width: 100px;"/><br><b>Flow</b>
+    </td>
+  </tr>
+</table>
+</div>
 
 <h2>Social Media</h2>
 <div>
