@@ -97,7 +97,7 @@
         <b>SOQL</b>
       </td>
       <td align="center" style="border:0px;">
-        <img src="https://developer.salesforce.com/resource/images/trailhead/badges/modules/trailhead_module_performance-troubleshooting-in-lwc.png" alt="Testing" width="100"/><br>
+        <img src="https://developer.salesforce.com/resource/images/trailhead/badges/modules/trailhead_module_performance-troubleshooting-in-lwc.png" alt="Testing" width="95"/><br>
         <b>Testing</b>
       </td>
       <td align="center" style="border:0px;">
