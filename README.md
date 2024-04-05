@@ -85,7 +85,7 @@
         <b>LWC</b>
       </td>
       <td align="center" style="border:0px;">
-        <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/lex_dev_visualforce/7998e9bbdff36b923bb01ff7a5f918f5_badge.png" alt="Visualforce" width="100"/><br>
+        <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/lex_dev_visualforce/7998e9bbdff36b923bb01ff7a5f918f5_badge.png" alt="Visualforce" width="80"/><br>
         <b>Visualforce</b>
       </td>
       <td align="center" style="border:0px;">
@@ -101,7 +101,7 @@
         <b>Testing</b>
       </td>
       <td align="center" style="border:0px;">
-        <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/apex_integration_services/06d0e8f1f5b59f14d070f0f6e86dc5bd_badge.png" alt="Integration" width="100"/><br>
+        <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/apex_integration_services/06d0e8f1f5b59f14d070f0f6e86dc5bd_badge.png" alt="Integration" width="80"/><br>
         <b>Integration</b>
       </td>
       <td align="center" style="border:0px;">
