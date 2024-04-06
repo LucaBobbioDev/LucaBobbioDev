@@ -114,10 +114,13 @@
 
 <h2>Social Media</h2>
 <div>
-  <a href="https://www.linkedin.com/in/luca-bobbio-0135b2240/" target="blank">
+  <a href="https://www.linkedin.com/in/luca-bobbio-0135b2240/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.facebook.com/Luca.bobbio.1/" target="blank">
+  <a href="https://www.facebook.com/Luca.bobbio.1/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://www.salesforce.com/trailblazer/lbobbio">
+    <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white"/>
   </a>
 </div>
