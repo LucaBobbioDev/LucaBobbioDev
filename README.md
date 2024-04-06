@@ -89,7 +89,7 @@
         <b>Visualforce</b>
       </td>
       <td align="center" style="border:0px;">
-        <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/projects/quickstart-vscode-salesforce/a884f9ae6802649bf19065787ec0bb29_badge.png" alt="SFDX" width="100"/><br>
+        <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/projects/quick-start-salesforce-dx/dda4c8d6571c1cbdd0d9fd579eacf385_badge.png" alt="SFDX" width="100"/><br>
         <b>SFDX</b>
       </td>
       <td align="center" style="border:0px;">
