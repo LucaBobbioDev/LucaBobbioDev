@@ -1,6 +1,8 @@
 <h1>Hi! I'm Luca Bobbio</h1>
 <p>
-  I'm a professional holding a degree in Systems Analysis and Development from Fatec Santana de Parnaíba. I have over 2 year of experience as a software developer in both private and public sectors. In the private sector I was a junior developer in Salesforce working primmarly with technologies such as Apex, Lightning Web Components (JavaScript, HTML and CSS), Visualforce, SOSL/SOQL and others.
+  I'm a professional holding a degree in Systems Analysis and Development from Fatec Santana de Parnaíba. I have over 2 year of experience as a software developer in both private and public sectors. 
+  <br/>
+  In the private sector I was a junior developer in Salesforce working primmarly with technologies such as Apex, Lightning Web Components (JavaScript, HTML and CSS), Visualforce, SOSL/SOQL and others.
   <br/>
   At the present moment I work in public sector, assigned to the digital services department in a city in the São Paulo metropolitan area. My current stack is Microsoft .NET Core, Razor, Javascript Jquery, CSS Bootstrap,Visual Studio 2022 and Microsoft SQL Server.
 </p>
